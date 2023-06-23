@@ -32,7 +32,7 @@
     "replace-in-file": "^4.2.0",
     "rimraf": "^3.0.0",
     "run-sequence": "^2.2.1",
-    "semver": "^6.3.0",
+    "semver": "^7.5.2",
     "start-server-and-test": "^1.11.0",
     "testcafe": "^1.8.6",
     "testcafe-reporter-xunit": "^2.1.0",
